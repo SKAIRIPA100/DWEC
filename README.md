@@ -10,6 +10,7 @@
     <h3>YO</h3>
     <ul><p>Algunas cosas sobre mi mismo:</p>
       <li>Mi nombre es Aitor Rodríguez Castiñeira</li>
+      <li>Mi nombre de usuario es SKAIRIPA100, haciendo referencia a la mejor serie de todos los tiempos (THE100)</li>
       <li>Tengo 25 años</li>
       <li>No creo en el horóscopo, pero soy Sagitario(el mejor signo....facts)</li>
       <li>Friki, kpoper, otaku y gamer.... y aún así tengo novia, increíble</li>
